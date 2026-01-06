@@ -1,0 +1,12 @@
+{
+  "id": "serverinfoplus",
+  "name": "ServerInfoPlus",
+  "version": "1.0.0",
+  "author": "AzureDawnCH",
+  "description": "Erweitertes Server-Overlay: Ping-Graph, TPS-Schätzung, individuelle Join/Leave-Notifier. Kompatibel mit Minecraft 1.21.8+ und LabyMod 4.",
+  "minecraftVersion": "1.21.8+",
+  "labymodApiVersion": "4",
+  "main": "de.azuredawnch.serverinfoplus.ServerInfoPlusAddon",
+  "category": "Utilities",
+  "icon": "assets/icon.png"
+}
