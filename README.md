@@ -1,4 +1,4 @@
-# ServerInfoPlus (LabyMod 4 Addon) — Build & Install
+# ServerInfoPlus (LabyMod 4 Addon)
 
 Was ist hier:
 - Vollständiges Gradle‑Java‑Projekt zum Erzeugen einer `.labyaddon`-Datei.
